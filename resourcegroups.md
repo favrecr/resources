@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017, 2019
-lastupdated: "2019-10-30"
+lastupdated: "2019-11-25"
 
 keywords: resource group, account resources, users access to resource groups, create resource group
 
@@ -25,13 +25,13 @@ subcollection: resources
 
 A resource group is a way for you to organize your account resources in customizable groupings so that you can quickly assign users access to more than one resource at a time. Any account resource that is managed by using {{site.data.keyword.Bluemix}} Identity and Access Management (IAM) access control belongs to a resource group within your account. The only exception is Kubernetes, which doesn't prompt you for a resource group assignment, but access to the service is controlled by using IAM roles. Cloud Foundry services are assigned to orgs and spaces and can't be added to a resource group.
 
-To start managing your resource groups, go to **Manage** &gt; **Account**. Expand **Account resources** and then select **Resource groups**. From there you can view your resource groups, add resources, rename them, manage access, and create new resource groups. For more information about working with resource groups, see [Best practices for organizing resources in resource groups](/docs/resources?topic=resources-bp_resourcegroups).
+To start managing your resource groups, go to **Manage** > **Account** > **Account resources** > **Resource groups**. You can create, view, and rename your resource groups, add resources and manage access to your resource groups, and you can delete any resource group that isn't the default one. For more information about working with resource groups, see [Best practices for organizing resources in resource groups](/docs/resources?topic=resources-bp_resourcegroups).
 
 
 ## Creating a resource group
 {: #create_rgs}
 
-If you have a Pay-As-You-Go or Subscription account, you can create multiple resource groups to easily manage quota and view billing usage for a set of resources. You can also group resources to make it easier for you to assign users access to more than one instance at a time. It's important to note that you can rename a resource group, but you can't delete a resource group after it's created.
+If you have a Pay-As-You-Go or Subscription account, you can create multiple resource groups to easily manage quota and view billing usage for a set of resources. You can also group resources to make it easier for you to assign users access to more than one instance at a time. It's important to note that you can rename a resource group, but you can't delete a resource group after it's created. After a resouce group is created, you can delete it only if it doesn't contain any resources. To manage your resource groups, go to the [Resource groups page](https://cloud.ibm.com/account/resource-groups) in the console.
 
 You must be assigned an IAM policy with the Administrator role on All Account Management services to create additional resource groups. If you have a Lite account or 30-day trial, you can't create extra resource groups, but you can rename your default resource group.
 
@@ -72,9 +72,18 @@ Your first resource group is created and named `Default` for you. You can choose
 
 The {{site.data.keyword.Bluemix_notm}} CLI has multiple commands that support resource management. For more information, see [Working with resources and resource groups](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_commands_resource#ibmcloud_commands_resource).
 
-## Managing access to your resource groups
+## Giving users access to resources in your resource groups
 {: #rgs_manage_access}
 
-Cloud IAM gives you the flexibility to provide fine-grained user access to resources in your account. You can use Cloud IAM to assign policies to users, which provide user access to all resources in a resource group, a single service type within a resource group, or an individual service instance in the account. Providing users access to resources within a resource group doesn't give them access to manage the resource group itself. You can set access for the ability to view, edit, and manage the actual resource group separately.
+With {{site.data.keyword.Bluemix_notm}} IAM, you have the flexibility to provide fine-grained user access to the resources and resource groups in your account. See [Managing access to resources](/docs/iam?topic=iam-iammanidaccser) for more information. 
 
-For more information, see [Managing access to resources](/docs/iam?topic=iam-iammanidaccser).
+## Deleting a resource group 
+{: #delete_rgs}
+
+Besides the default resource group, you can delete any resource group if you're no longer using it. You can't delete the default resource group that's added to your account.
+
+You can't delete a resource group if there are resources assigned to it. Go to your resource list to delete the assigned resources before you try to delete the resource group.
+{: note}  
+
+1. Go to **Manage** > **Account** > **Account resources** > **Resource groups**.
+2. Click the **Actions** ![List of actions icon](../icons/action-menu-icon.svg) menu, and select **Delete**.
