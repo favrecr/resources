@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-11-25"
+lastupdated: "2019-11-26"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -118,7 +118,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Real-Time Payments | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SQL Query | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Schematics workspace | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Schematics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Security Advisor | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -234,7 +234,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Real-Time Payments |  |  | 
 | SQL Query |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Schematics workspace |  |  | 
+| Schematics |  |  | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
 | Security Advisor | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -350,7 +350,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Real-Time Payments |  |  | 
 | SQL Query |  |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Schematics workspace |  |  | 
+| Schematics |  |  | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | Security Advisor |  |  | 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
