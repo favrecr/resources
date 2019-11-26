@@ -4,7 +4,7 @@ copyright:
 
   years: 2015, 2019
 
-lastupdated: "2019-07-22"
+lastupdated: "2019-11-25"
 
 keywords: resource FAQs, resource frequently asked questions
 
@@ -62,7 +62,7 @@ Lite accounts can have only the default resource group, so you can't create any 
 {: #delete-resource-group}
 {: faq}
 
-You can't delete a resource group after it's created.
+Yes, you can delete a resource group only if it doesn't contain any resources, and it's not the default resource group. See [Deleting a resource group](/docs/resources?topic=resources-rgs#delete_rgs) for more information. 
 
 ## Can I move service instances between resource groups?
 {: #instances-between-rgs}
