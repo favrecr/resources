@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-12-05"
+lastupdated: "2019-12-06"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -85,7 +85,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Hyper Protect Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Hyper Protect Virtual Servers | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -201,7 +201,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for PostgreSQL |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Hyper Protect Virtual Server |  |  | 
+| Hyper Protect Virtual Servers |  |  | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -317,7 +317,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Hyper Protect Virtual Server |  |  | 
+| Hyper Protect Virtual Servers |  |  | 
 | IBM Cognos Dashboard Embedded |  |  | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
