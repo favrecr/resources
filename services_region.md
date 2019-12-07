@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-12-06"
+lastupdated: "2019-12-07"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -346,7 +346,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Power Systems Virtual Server |  |  | 
 | Predictive Market Scenarios |  |  | 
 | Public Gateway for VPC |  |  | 
-| Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
 | SQL Query |  |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
