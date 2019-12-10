@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-12-09"
+lastupdated: "2019-12-10"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -36,6 +36,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | Dallas | Washington DC | 
 |-----|-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| API Gateway | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | App Connect | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -109,6 +110,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Network ACL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -152,6 +154,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | London | Frankfurt | 
 |-----|-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| API Gateway | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | App Connect | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | App ID | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -225,6 +228,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Network ACL |  |  | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server |  |  | 
@@ -268,6 +272,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Service | Sydney | Tokyo | 
 |-----|-----|-----|-----|-----|-----|
 | API Connect | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| API Gateway | Hosted Globally | Hosted Globally | 
 | Analytics Engine |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | App Connect | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | App ID | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -341,6 +346,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Network ACL |  |  | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server |  |  | 
