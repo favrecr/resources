@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-12-16"
+lastupdated: "2019-12-17"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -410,8 +410,8 @@ The following infrastructure resources are available in North and South America.
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -444,8 +444,8 @@ The following infrastructure resources are available in North and South America.
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -478,8 +478,8 @@ The following infrastructure resources are available in North and South America.
 | Cloud HSM |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -512,8 +512,8 @@ The following infrastructure resources are available in North and South America.
 | Cloud HSM |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | 
@@ -551,8 +551,8 @@ The following infrastructure resources are available in Europe. Match the resour
 | Cloud HSM |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  |  | 
-| Direct Link Dedicated |  |  | 
 | Direct Link Dedicated Hosting |  |  | 
+| Direct Link Dedicated on Classic |  |  | 
 | Direct Link Exchange |  |  | 
 | File Storage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  |  | 
@@ -585,8 +585,8 @@ The following infrastructure resources are available in Europe. Match the resour
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -619,8 +619,8 @@ The following infrastructure resources are available in Europe. Match the resour
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -653,8 +653,8 @@ The following infrastructure resources are available in Europe. Match the resour
 | Cloud HSM |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | 
@@ -687,8 +687,8 @@ The following infrastructure resources are available in Europe. Match the resour
 | Cloud HSM |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | 
@@ -721,8 +721,8 @@ The following infrastructure resources are available in Europe. Match the resour
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -760,8 +760,8 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  |  |  |  |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  |  |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -794,8 +794,8 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Cloud HSM |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  | 
-| Direct Link Dedicated |  | 
 | Direct Link Dedicated Hosting |  | 
+| Direct Link Dedicated on Classic |  | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -828,8 +828,8 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  | 
@@ -862,8 +862,8 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -896,8 +896,8 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Cloud HSM |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -930,8 +930,8 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Cloud HSM |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect |  | 
-| Direct Link Dedicated | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting | ![Checkmark icon](../icons/checkmark-icon.svg) | 
+| Direct Link Dedicated on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Exchange |  | 
 | File Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | FortiGate Security Appliance 10Gbps | ![Checkmark icon](../icons/checkmark-icon.svg) | 
