@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-12-18"
+lastupdated: "2019-12-19"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -106,6 +106,7 @@ Services that are hosted globally create resources that operate across multiple 
 | MQ | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Machine Learning | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Managed Financial Data API | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Mass Data Migration | Hosted Globally | Hosted Globally | 
 | Master Data Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -225,6 +226,7 @@ Services that are hosted globally create resources that operate across multiple 
 | MQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Machine Learning | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Managed Financial Data API |  |  | 
+| Mass Data Migration | Hosted Globally | Hosted Globally | 
 | Master Data Management | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Messages for RabbitMQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -344,6 +346,7 @@ Services that are hosted globally create resources that operate across multiple 
 | MQ | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Machine Learning |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Managed Financial Data API |  |  | 
+| Mass Data Migration | Hosted Globally | Hosted Globally | 
 | Master Data Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
