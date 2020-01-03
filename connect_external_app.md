@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2019
-lastupdated: "2019-01-28"
+  years: 2015, 2020
+lastupdated: "2020-01-03"
 
 keywords: service keys, api keys, using services outside IBM cloud
 
@@ -64,5 +64,4 @@ The following services provide service keys for you to use externally:
 * {{site.data.keyword.texttospeechshort}} <!--Text to Speech-->
 * {{site.data.keyword.toneanalyzershort}} <!--Tone Analyzer-->
 * {{site.data.keyword.conversationshort}} <!--Watson Assistant-->
-* {{site.data.keyword.weather_short}} <!--Weather Company Data-->
 * {{site.data.keyword.workloadscheduler}} <!--Workload Scheduler-->
