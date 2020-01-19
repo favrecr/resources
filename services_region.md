@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2020-01-17"
+lastupdated: "2020-01-19"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -109,7 +109,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Load Balancer for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | MQ | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Machine Learning | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Managed Financial Data API | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | 
 | Master Data Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -132,7 +131,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Simulated Historical Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Simulated Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Simulated Instruments Analytics API | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Subnet |  |  | 
@@ -233,7 +231,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Load Balancer for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | MQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Machine Learning | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Managed Financial Data API |  |  | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | 
 | Master Data Management | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Messages for RabbitMQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -256,7 +253,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Simulated Historical Instrument Analytics |  |  | 
 | Simulated Instrument Analytics |  |  | 
-| Simulated Instruments Analytics API |  |  | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Subnet |  |  | 
@@ -357,7 +353,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Load Balancer for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | MQ | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Machine Learning |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Managed Financial Data API |  |  | 
 | Mass Data Migration | Hosted Globally | Hosted Globally | 
 | Master Data Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Messages for RabbitMQ | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -380,7 +375,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Simulated Historical Instrument Analytics |  |  | 
 | Simulated Instrument Analytics |  |  | 
-| Simulated Instruments Analytics API |  |  | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics |  |  | 
 | Subnet |  |  | 
