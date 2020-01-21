@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2020-01-20"
+lastupdated: "2020-01-21"
 
 keywords: location, regions, data centers, service location, service availability
 
