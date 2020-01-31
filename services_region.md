@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2020-01-30"
+lastupdated: "2020-01-31"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -39,7 +39,7 @@ Services that are hosted globally create resources that operate across multiple 
 | API Gateway | Hosted Globally | Hosted Globally | 
 | Analytics Engine | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | App Connect | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| App ID | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| App ID | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Automated Accessibility Tester | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Availability Monitoring | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | BigInsights for Apache Hadoop (Subscription) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -211,7 +211,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect Crypto Services |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for MongoDB |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect DBaaS for PostgreSQL |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Hyper Protect Virtual Server |  |  | 
+| Hyper Protect Virtual Server |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | IBM Cloud Activity Tracker with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
