@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2020-02-05"
+lastupdated: "2020-02-06"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -124,7 +124,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SQL Query | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Schematics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Security Advisor | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -167,7 +167,7 @@ Services that are hosted globally create resources that operate across multiple 
 | BigInsights for Apache Hadoop (Subscription) |  |  | 
 | Block Storage for VPC |  |  | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
-| Blockchain Platform |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
