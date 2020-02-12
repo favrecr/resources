@@ -4,8 +4,8 @@
 
 copyright:
 
-  years: 2019
-lastupdated: "2019-12-11"
+  years: 2019, 2020
+lastupdated: "2020-02-12"
 
 keywords: resource, account resources, create resource, delete resource, restore resource 
 
@@ -24,7 +24,7 @@ subcollection: resources
 # Managing resources 
 {: #manage_resource}
 
-A [resource](x2004267){: term} is anything that you can create from the catalog that is managed by and contained within a resource group. You can create and manage resources by going to the [My resources](https://cloud.ibm.com/resources) page in the {{site.data.keyword.cloud}} or by using the command-line interface (CLI).
+A [resource](x2004267){: term} is anything that you can create from the catalog that is managed by and contained within a resource group. You can create and manage resources by going to your [resource list](https://cloud.ibm.com/resources) in the {{site.data.keyword.cloud}} console or by using the command-line interface (CLI).
 
 ## Creating a resource 
 {: #create-resource}
