@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2020-02-07"
+lastupdated: "2020-02-12"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -115,7 +115,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Network ACL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Network ACL | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -128,7 +128,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Schematics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Security Advisor | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Simulated Historical Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Simulated Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
