@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2020-02-13"
+lastupdated: "2020-02-14"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -82,7 +82,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Discovery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Event Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Event Streams | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Floating IP for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Floating IP for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Functions | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Globalization Pipeline | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Historical Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -93,7 +93,7 @@ Services that are hosted globally create resources that operate across multiple 
 | IBM Cloud Activity Tracker with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Information Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Informix | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -139,7 +139,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Toolchain | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | VMware Solutions | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Virtual Private Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Virtual Private Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Virtual Server for VPC |  |  | 
 | Visual Recognition | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Voice Agent with Watson | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
