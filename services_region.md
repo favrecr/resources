@@ -49,7 +49,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
-| Cloudant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Cloudant | Hosted Globally | Hosted Globally | 
 | Compare and Comply | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Compose Enterprise | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Compose for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -123,6 +123,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Red Hat OpenShift Cluster | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SQL Query | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Schematics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -171,7 +172,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
-| Cloudant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Cloudant | Hosted Globally | Hosted Globally | 
 | Compare and Comply |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Compose Enterprise | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Compose for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -237,7 +238,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Network ACL |  |  | 
+| Network ACL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server |  |  | 
@@ -245,6 +246,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
+| Red Hat OpenShift Cluster |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SQL Query |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Schematics |  |  | 
@@ -266,7 +268,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Visual Recognition |  |  | 
 | Voice Agent with Watson |  |  | 
 | Watson Assistant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Watson OpenScale |  |  | 
+| Watson OpenScale |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Watson Studio | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | WebSphere Application Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 {: row-headers}
@@ -293,7 +295,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
-| Cloudant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Cloudant | Hosted Globally | Hosted Globally | 
 | Compare and Comply |  |  | 
 | Compose Enterprise | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Compose for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -367,6 +369,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
+| Red Hat OpenShift Cluster |  |  | 
 | SQL Query |  |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Schematics |  |  | 
@@ -380,7 +383,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Subnet |  |  | 
 | Text to Speech | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Tone Analyzer | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Toolchain |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Toolchain | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | VMware Solutions | Hosted Globally | Hosted Globally | 
 | VPN for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
