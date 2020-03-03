@@ -4,9 +4,9 @@ copyright:
 
   years: 2015, 2020
 
-lastupdated: "2020-02-18"
+lastupdated: "2020-03-03"
 
-keywords: resource FAQs, resource frequently asked questions
+keywords: resource FAQs, resource frequently asked questions, resource groups
 
 subcollection: resources
 
@@ -21,7 +21,7 @@ subcollection: resources
 {:faq: data-hd-content-type='faq'}
 
 
-# FAQs
+# FAQs for managing resources
 {: #resources-faq}
 
 ## What is a resource group?
