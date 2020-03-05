@@ -41,16 +41,7 @@ Working with resources and services
     Connecting to services over a private network
         service-endpoints.md
         private-network-endpoints.md
-        /direct-link/direct-link-overview-of-virtual-routing-and-forwarding-vrf-on-ibm-cloud
-        
-    {: .topicgroup}
-    TEST Ensuring secure cloud development
-        test-iam.md
-        test-compute.md
-        test-se.md
-        test-data.md
-        test-at.md
-    {: .navgroup-end}    
+        /direct-link/direct-link-overview-of-virtual-routing-and-forwarding-vrf-on-ibm-cloud 
 
     {: .navgroup id="reference"}
     tagging_sample_syntax.md
