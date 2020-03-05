@@ -4,7 +4,7 @@ copyright:
 
   years: 2020
 
-lastupdated: "2020-03-04"
+lastupdated: "2020-03-05"
 
 keywords: migration FAQs, data centers
 
@@ -19,11 +19,11 @@ subcollection: resources
 {:new_window: target="_blank"}
 {:faq: data-hd-content-type='faq'}
 
-#  FAQs for data center closures and migration
+#  FAQs for migrating resources to a different data center
 {: #faqs-dc-closure}
 
 
-##  Why am I required to move to another data center?
+##  Why am I required to migrate my resources?
 {: #dc-required-move}
 {: faq}
 
@@ -37,7 +37,7 @@ To continue bringing you the best service, hardware, and connectivity, data cent
 Yes. To ensure that you have no interruption in service, we try to allow as much lead time as possible to make the transition easier. 
 
 
-## Will I need to move to another data center ever again?
+## Will I need to migrate my resources in the future?
 {: #dc-move-again}
 {: faq}
 
@@ -48,19 +48,19 @@ We constantly evaluate the quality of our sites to bring you the best and most d
 {: #dc-select-deploy}
 {: faq}
 
-{{site.data.keyword.IBM_notm}} has more than 60 data centers in locations around the world. View the data center map on our [global data centers page](https://www.ibm.com/cloud/data-centers/){: external} to see the data centers in which you can deploy. 
-
 The following factors might influence which data center you select:
 * Proximity to the users of the systems
 * Proximity to any other systems that this server needs to communicate with
 * Any data policies or regulations that require data to be stored in a specific location
+
+For the list of available data centers, see [Locations for resource deployment](/docs/overview?topic=overview-locations).
 
 
 ## What data centers can I use during the transition period?
 {: #dc-transition-sites}
 {: faq}
 
-You can use any worldwide {{site.data.keyword.cloud_notm}} data centers during your transition period, which lasts up to 60 days. See [global data centers page](https://www.ibm.com/cloud/data-centers/){: external} to view the data center map.
+You can use any worldwide {{site.data.keyword.cloud_notm}} data center during your transition period, which lasts up to 60 days. See [Locations for resource deployment](/docs/overview?topic=overview-locations) for more information.
 
 
 ## Are the two free months of transition period resources in addition to my existing server time?
@@ -74,8 +74,7 @@ Yes. You can [contact an appropriate support representative](https://www.ibm.com
 {: #dc-determine-config}
 {: faq}
 
-You can find your system configuration details by selecting you device from your Resource list. For more information, see [Determining your current hardware configuration](/docs/resources?topic=resources-migrate-data-center#current-hardware-config). 
-
+You can find your system configuration details by selecting your device from your [list of resources](https://cloud.ibm.com/resources){: external} in the {{site.data.keyword.cloud_notm}} console. 
 
 ## How do I determine the utilization of my current hardware?
 {: #dc-determine-utilization} 
@@ -85,7 +84,7 @@ In general, you need to understand which specific resources within the system ar
 
 Most operating systems provide tools that you can use to understand the utilization of your system, for example, vmstat and iostat on Linux or Windows System Performance Monitor. Performance monitoring and tuning is something that you might invest significant time and effort in. 
 
-For more information, contact the Client Success team [Live chat](https://www.ibm.com/cloud/data-centers/?focusArea=WCP%20-%20Pooled%20CSM&contactmodule){: external}.
+For more information, contact the [Client Success team](https://www.ibm.com/cloud/data-centers/?focusArea=WCP%20-%20Pooled%20CSM&contactmodule){: external}.
 
 
 ## How do I compare old and new processors?
@@ -103,10 +102,10 @@ If you have a workload that is processor-bound, meaning that the performance is 
 
 Compatibility and functionality are two of the main influencers when you choose a new operating system. Older versions of operating systems can present challenges with migration. Installation media might not be compatible and the server hardware might not be supported by the older operating system. The best course of action is to compare specs and ensure that the operating system is compatible. Functionality is important because if you have the source code for the application, ensure the necessary development tools and supporting operating system or middleware functions are available on the new platform. In general, Linux type systems are better at supporting older applications on newer versions of the operating system than Windows.
 
-For more information, contact the Client Success team [Live chat](https://www.ibm.com/cloud/data-centers/?focusArea=WCP%20-%20Pooled%20CSM&contactmodule){: external}.
+For more information, contact the [Client Success team](https://www.ibm.com/cloud/data-centers/?focusArea=WCP%20-%20Pooled%20CSM&contactmodule){: external}.
 
 
-## What bandwidth do I get with my new configuration and is it at the same rate I currently have?
+## What bandwidth do I get with my new configuration?
 {: #dc-bandwidth-rate}
 {: faq}
 
@@ -117,19 +116,20 @@ You receive a current bandwidth package that is most closely related to the pack
 {: #dc-copy-data}
 {: faq}
 
-You can copy applications and application data from your old server to your new one. For more information, see [Copying data from my old server to the new one](/docs/resources?topic=resources-migrate-data-center#copying-data-to-new-server).
+You can copy applications and application data from your old server to your new one. For more information, see [Migrating resources to a different data center](/docs/resources?topic=resources-migrate-data-center).
 
 
-## Do I need to set up my networking again at the new site?
+## Do I need to set up my networking at the new site?
 {: #dc-setup-networking}
 {: faq}
 
-Most likely, your networking needs to change to work with the new servers and site. If you need help with this process, contact the [{{site.data.keyword.cloud_notm}} support team](/docs/get-support?topic=get-support-dc-migrate#dc-migration-help). For more information about setting up your network, see [Setting up a virtual machine network](/docs/infrastructure/virtualization?topic=Virtualization-setting-up-a-virtual-machine-network).
+Most likely, your networking needs to change to work with the new servers and site. For more information about setting up your network, see [Setting up a virtual machine network](/docs/infrastructure/virtualization?topic=Virtualization-setting-up-a-virtual-machine-network).
 
 
 ## Can I keep my existing IP addresses?
 {: #dc-ip-addresses}
 
-Your new servers come with new primary IP subnets. Your current IP addresses cannot be transferred. If you need additional IP addresses, you can request those directly through the IBM Cloud console. 
+Your new servers come with new primary IP subnets. Your current IP addresses cannot be transferred. If you need additional IP addresses, you can request those directly from the console. Specify that you're migrating your resources to a new data center.
 
-For more information about VPC subnets, see [Bring your own subnet](/docs/vpc?topic=vpc-configuring-address-prefixes). For more information about Classic infrastructure subnets, see [Getting started with subnets and IPs](/docs/subnets?topic=subnets-getting-started). In your new IP address request, you are migrating from a [data center that is closing](/docs/get-support?topic=get-support-dc-migrate).
+  * For more information about VPC subnets, see [Bring your own subnet](/docs/vpc?topic=vpc-configuring-address-prefixes). 
+  * For more information about classic infrastructure subnets, see [Getting started with subnets and IPs](/docs/subnets?topic=subnets-getting-started). 
