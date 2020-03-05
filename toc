@@ -13,10 +13,14 @@ Working with resources and services
 
     {: .navgroup id="howto"}
     resourcegroups.md
-    instance_migration.md
     manage_resource.md
     searching.md
     access-report.md
+
+    {: .topicgroup}
+    Migrating your resources
+        instance_migration.md
+        data-center-migration.md
 
     {: .topicgroup}
     Tagging resources
@@ -38,6 +42,14 @@ Working with resources and services
         service-endpoints.md
         private-network-endpoints.md
         /direct-link/direct-link-overview-of-virtual-routing-and-forwarding-vrf-on-ibm-cloud
+        
+    {: .topicgroup}
+    TEST Ensuring secure cloud development
+        test-iam.md
+        test-compute.md
+        test-se.md
+        test-data.md
+        test-at.md
     {: .navgroup-end}    
 
     {: .navgroup id="reference"}
@@ -59,6 +71,10 @@ Working with resources and services
     {: .navgroup-end}
 
     {: .navgroup id="help"}
-    faqs.md
+    {: .topicgroup}
+    FAQs 
+        faqs.md
+        faqs-migration.md
+
     ts_services.md
     {: .navgroup-end}
