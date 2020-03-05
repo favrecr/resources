@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2020
-lastupdated: "2020-01-02"
+lastupdated: "2020-03-05"
 
 keywords: set up private endpoints, private endpoint,private network endpoint,connect service over private network
 
@@ -61,6 +61,7 @@ Refer to the documentation for the specific service for more information about u
 | {{site.data.keyword.cos_short}} | [{{site.data.keyword.cos_short}}](/docs/services/cloud-object-storage?topic=cloud-object-storage-advanced-endpoints) utilizes {{site.data.keyword.keymanagementserviceshort}}'s service endpoint for its BYOK integration|
 | {{site.data.keyword.la_full}} | [{{site.data.keyword.la_full_notm}} service endpoints integration](/docs/services/Log-Analysis-with-LogDNA?topic=LogDNA-network#network_endpoints_private)|
 | {{site.data.keyword.mon_full_notm}} | [{{site.data.keyword.mon_full_notm}} service endpoints integration](/docs/services/Monitoring-with-Sysdig?topic=Sysdig-endpoints#endpoints_ingestion)|
+| {{site.data.keyword.bpshort}} | [Using private endpoints](/docs/schematics?topic=schematics-private-endpoints) |
 | {{site.data.keyword.conversationshort}} | [Protecting sensitive information](/docs/assistant?topic=assistant-security) with {{site.data.keyword.conversationshort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.cncshort}} | [Public and private network endpoints](/docs/compare-comply?topic=watson-public-private-endpoints) with {{site.data.keyword.cncshort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.discoveryshort}} | [Public and private network endpoints](/docs/discovery?topic=watson-public-private-endpoints) with {{site.data.keyword.discoveryshort}} |
@@ -72,4 +73,5 @@ Refer to the documentation for the specific service for more information about u
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.texttospeechshort}} | [Public and private network endpoints](docs/services/text-to-speech?topic=watson-public-private-endpoints) with {{site.data.keyword.texttospeechshort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.toneanalyzershort}} | [Public and private network endpoints](docs/services/tone-analyzer?topic=watson-public-private-endpoints) with {{site.data.keyword.toneanalyzershort}} |
 {: caption="Table 1. Services that support using service endpoints" caption-side="top"}
+
 
