@@ -4,7 +4,7 @@ copyright:
 
   years: 2020
 
-lastupdated: "2020-03-05"
+lastupdated: "2020-03-06"
 
 keywords: migration FAQs, data centers
 
@@ -100,7 +100,7 @@ If you have a workload that is processor-bound, meaning that the performance is 
 {: #dc-choose-os}
 {: faq}
 
-Compatibility and functionality are two of the main influencers when you choose a new operating system. Older versions of operating systems can present challenges with migration. Installation media might not be compatible and the server hardware might not be supported by the older operating system. The best course of action is to compare specs and ensure that the operating system is compatible. Functionality is important because if you have the source code for the application, ensure the necessary development tools and supporting operating system or middleware functions are available on the new platform. In general, Linux type systems are better at supporting older applications on newer versions of the operating system than Windows.
+Compatibility and functionality are two of the main influencers when you choose a new operating system. Older versions of operating systems can present challenges with migration. Installation media might not be compatible and the server hardware might not be supported by the older operating system. The best course of action is to compare specs and ensure that the operating system is compatible. You must verify that the necessary development tools and operating system or middleware functions are available on the new platform. In general, Linux type systems are better at supporting older applications on newer versions of the operating system than Windows.
 
 For more information, contact the [Client Success team](https://www.ibm.com/cloud/data-centers/?focusArea=WCP%20-%20Pooled%20CSM&contactmodule){: external}.
 
