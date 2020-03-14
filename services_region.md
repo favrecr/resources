@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-03-13"
+lastupdated: "2020-03-14"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -67,7 +67,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cost and Asset Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
-| Data Shield | Hosted Globally | Hosted Globally | 
 | Data Store for Memcache | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -91,6 +90,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | IBM Cloud Activity Tracker with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| IBM Cloud Data Shield | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -190,7 +190,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cost and Asset Management |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
-| Data Shield | Hosted Globally | Hosted Globally | 
 | Data Store for Memcache |  |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -214,6 +213,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect DBaaS for PostgreSQL |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Hyper Protect Virtual Server |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | IBM Cloud Activity Tracker with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| IBM Cloud Data Shield | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | IBM Log Analysis with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -238,7 +238,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Network ACL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Network ACL | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server |  |  | 
@@ -313,7 +313,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cost and Asset Management |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
-| Data Shield | Hosted Globally | Hosted Globally | 
 | Data Store for Memcache |  |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -337,6 +336,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Hyper Protect DBaaS for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Hyper Protect Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | IBM Cloud Activity Tracker with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| IBM Cloud Data Shield | Hosted Globally | Hosted Globally | 
 | IBM Cognos Dashboard Embedded |  |  | 
 | IBM Log Analysis with LogDNA | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Image Service for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
