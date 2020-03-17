@@ -4,7 +4,7 @@ copyright:
 
   years: 2020
 
-lastupdated: "2020-03-06"
+lastupdated: "2020-03-17"
 
 keywords: migration FAQs, data centers
 
@@ -123,7 +123,7 @@ You can copy applications and application data from your old server to your new 
 {: #dc-setup-networking}
 {: faq}
 
-Most likely, your networking needs to change to work with the new servers and site. For more information about setting up your network, see [Setting up a virtual machine network](/docs/infrastructure/virtualization?topic=Virtualization-setting-up-a-virtual-machine-network).
+Most likely, your networking needs to change to work with the new servers and site. For more information about setting up your network, see [Setting up a virtual machine network](/docs/virtualization?topic=Virtualization-setting-up-a-virtual-machine-network).
 
 
 ## Can I keep my existing IP addresses?
