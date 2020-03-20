@@ -6,7 +6,7 @@ Working with resources and services
 
     {: .navgroup id="learn"}
     acct_resources.md
-    [What is a resource](https://cloud.ibm.com/docs/resources?topic=resources-resource)
+    [Resource list](https://cloud.ibm.com/resources)
     bestpractice_rgs.md
     services_region.md
     services_availability.md
