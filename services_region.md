@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-03-20"
+lastupdated: "2020-03-21"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -265,7 +265,7 @@ Services that are hosted globally create resources that operate across multiple 
 | VPN for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Virtual Server for VPC |  |  | 
-| Visual Recognition |  |  | 
+| Visual Recognition |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Voice Agent with Watson |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Watson Assistant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Watson OpenScale |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
