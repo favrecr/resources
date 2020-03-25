@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-03-24"
+lastupdated: "2020-03-25"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -249,7 +249,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Red Hat OpenShift on IBM Cloud |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SQL Query |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Schematics |  |  | 
+| Schematics |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Secure Gateway | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
 | Security Advisor | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Security Group for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
