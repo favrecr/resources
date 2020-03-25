@@ -1,12 +1,12 @@
 ---
 
 copyright:
-  years: 2017, 2019
-lastupdated: "2019-05-13"
+  years: 2017, 2020
+lastupdated: "2020-03-25"
 
 keywords: change service, upgrade service, service plan, pricing plan
 
-subcollection: account
+subcollection: resources
 
 ---
 
@@ -64,14 +64,14 @@ As an alternative to the console, you can change a service's pricing plan by usi
 
 1. Change the plan for your service instance.
 
-   - If the service is RC-enabled, change your plan using the [`ibmcloud resource service-instance-update` command](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_commands_resource#ibmcloud_resource_service_instance_update).
+   - If the service is RC-enabled, change your plan by using the [`ibmcloud resource service-instance-update` command](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_commands_resource#ibmcloud_resource_service_instance_update).
 
      ```
      ibmcloud resource service-instance-update <service_instance_name> --service-plan-id <plan_id>
      ```
      {: codeblock}
 
-   - If the service is not RC-enabled and is therefore based on Cloud Foundry, change your plan using the [`ibmcloud cf update-service` command](/docs/cli?topic=cloud-cli-ibmcloud_commands_services#ibmcloud_service_update).
+   - If the service is not RC-enabled and is therefore based on Cloud Foundry, change your plan by using the [`ibmcloud cf update-service` command](/docs/cli?topic=cloud-cli-ibmcloud_commands_services#ibmcloud_service_update).
 
      ```
      ibmcloud cf update-service <service_instance_name> [-p <plan_name>]
