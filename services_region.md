@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-04-02"
+lastupdated: "2020-04-03"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -241,7 +241,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Network ACL | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
-| Power Systems Virtual Server |  |  | 
+| Power Systems Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Predictive Market Scenarios |  |  | 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
