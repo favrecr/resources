@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2018, 2019
-lastupdated: "2019-11-19"
+  years: 2018, 2020
+lastupdated: "2020-04-07"
 
 keywords: add tags, tags, full list of tags, how to use tags
 
@@ -27,7 +27,7 @@ To see a full list of tags in your account, go to **Manage > Account**, and sele
 ## Tagging rules and limitations
 {: #limits}
 
-Tags are not case-sensitive, and the maximum length of a tag is 128 characters. The permitted characters are A-Z, 0-9, spaces, underscore, hyphen, period, and colon. Colons turn the tag into a string where you can isolate two logical parts, like a `key:value` pair. You can't use a colon in a tag without creating this pairing. A comma separates tags and can't be used within the tag name itself.
+Tags are not case-sensitive, and the maximum length of a tag is 128 characters. The permitted characters are A-Z, 0-9, spaces, underscore, hyphen, period, and colon. The first occurrence of a colon turns the tag into a string where you can isolate two logical parts, like a `key:value` pair. You can't use a colon in a tag without creating this pairing. A comma separates tags and can't be used within the tag name itself.
 
 ## Adding and removing tags on a resource
 {: #add-remove}
