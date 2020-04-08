@@ -2,13 +2,13 @@
 
 copyright:
 
-  years: 2017, 2019
+  years: 2017, 2020
 
-lastupdated: "2019-10-07"
+lastupdated: "2020-04-08"
 
 keywords: crn, cloud resource name, resources, cloud catalog
 
-subcollection: overview
+subcollection: resources
 
 ---
 
@@ -21,7 +21,7 @@ subcollection: overview
 # Cloud Resource Names
 {: #crn}
 
-Cloud Resource Names (CRNs) uniquely identify {{site.data.keyword.Bluemix_notm}} resources. A CRN is used to specify a resource in a way that is unambiguous and guaranteed to be globally unique, such as in {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) policies and services listed in the cloud catalog.
+Cloud Resource Names (CRNs) uniquely identify {{site.data.keyword.Bluemix_notm}} resources. A CRN is used to specify a resource in an unambiguous way that is guaranteed to be globally unique. The same as {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) policies and services that are listed in the cloud catalog.
 
 A CRN is formed from a concatenation of "segments" that hierarchically identify the resource, its location, and the service it belongs to. The segment delimiter is set to ':' (the colon character). All CRNs begin with the segment identifier `crn`.
 
@@ -70,7 +70,7 @@ For services that are registered into the {{site.data.keyword.Bluemix_notm}} cat
 ## location
 {: #location-crn}
 
-The cloud geography/region/zone/data center that the resource resides in.
+The cloud geography/region/zone/data center that the resource resides.
 
 The `location` segment must be one of the following values:
 
@@ -146,13 +146,12 @@ The `scope` segment identifies the containment or owner of the resource. Some re
 
 The value of the `scope` segment must be formatted as `{scopePrefix}`/`{id}`. The `scopePrefix` represents the format that is used to identify the owner or containment. The `id` represents the identity of the owner or containment in a format that is specific to the `scopePrefix`.
 
-| Scope Type | Scope Prefix | Usage | Example |
-| --- | --- | --- | --- |
-| Account | a/`{account id}` | The account that the resource was created in. | `a/292558` |
-| Organization | o/`{org guid}` | The {{site.data.keyword.Bluemix_notm}} Organization to which the resource was assigned. | `o/4716e2d1-35b7-431f-891a-b552bf0b3c66` |
-| Space | s/`{space guid}` | The {{site.data.keyword.Bluemix_notm}} Space to which the resource was assigned. | `s/48b3cdcd-e804-4398-9032-73065863ad7c` |
+| Scope Type   | Scope Prefix     | Usage                                                                                   | Example                                  |
+|--------------|------------------|-----------------------------------------------------------------------------------------|------------------------------------------|
+| Account      | a/`{account id}` | The account that the resource was created in.                                           | `a/292558`                               |
+| Organization | o/`{org guid}`   | The {{site.data.keyword.Bluemix_notm}} Organization to which the resource was assigned. | `o/4716e2d1-35b7-431f-891a-b552bf0b3c66` |
+| Space        | s/`{space guid}` | The {{site.data.keyword.Bluemix_notm}} Space to which the resource was assigned.        | `s/48b3cdcd-e804-4398-9032-73065863ad7c` |
 {: caption="Table 1. `scope` usage" caption-side="top"}
-
 
 
 ## service-instance
@@ -162,7 +161,7 @@ The `service-instance` segment identifies the service instance uniquely. The for
 
 The `service-instance` must be alphanumeric, lowercase, no spaces, or special characters other than '-' and '/'.
 
-For example, a DevOps tool that is used to track and plan work items can have a simple `GUID` instance ID ("1234-5678-9012-3456"), where the policy component of an autoscale group service can use a hierarchical naming convention and have a `service-id` segment of:
+For example, a DevOps tool that is used to track and plan work items can have a simple `GUID` instance ID ("1234-5678-9012-3456"). But, the policy component of an autoscale group service can use a hierarchical naming convention and have a `service-id` segment of:
 
 >`c7a27f55-d35e-4153-b044-8ca9155fc467/my-test-asg1/my-scaleout-policy`
 
@@ -185,12 +184,12 @@ The `resource-type` segment must be alphanumeric, lowercase, and no spaces or sp
 ## CRN examples
 {: #crn_examples}
 
-The following tables provides a list of CRN examples.
+The following table provides a list of CRN examples.
 
-| Example | Value |
-| --- | --- |
+| Example           | Value |
+|-------------------|-------|
 | Kubernetes Worker | `crn:v1:bluemix:public:containers-kubernetes:us-south:a/59bcbfa6ea2f006b4ed7094c1a08dcdd:8042b2a8af6a4a5cbf6dbe09e07311d2:worker:kube-hou02-pa8042b2a8af6a4a5cbf6dbe09e07311d2-w1` |
-| Resource Group | `crn:v1:bluemix:public:resource-controller: global:a/59bcbfa6ea2f006b4ed7094c1a08dcdd:resource-group:59bcbfa6ea2f006b4ed7094c1a08dcdd` |
-| Service Instance | `crn:v1:bluemix:public:cloud-object-storage:global:a/59bcbfa6ea2f006b4ed7094c1a08dcdd:1a0ec336-f391-4091-a6fb-5e084a4c56f4::` |
-| Bucket | `crn:v1:bluemix:public:cloud-object-storage:global:a/59bcbfa6ea2f006b4ed7094c1a08dcdd:1a0ec336-f391-4091-a6fb-5e084a4c56f4:bucket:mybucket` |
+| Resource Group    | `crn:v1:bluemix:public:resource-controller: global:a/59bcbfa6ea2f006b4ed7094c1a08dcdd:resource-group:59bcbfa6ea2f006b4ed7094c1a08dcdd` |
+| Service Instance  | `crn:v1:bluemix:public:cloud-object-storage:global:a/59bcbfa6ea2f006b4ed7094c1a08dcdd:1a0ec336-f391-4091-a6fb-5e084a4c56f4::` |
+| Bucket            | `crn:v1:bluemix:public:cloud-object-storage:global:a/59bcbfa6ea2f006b4ed7094c1a08dcdd:1a0ec336-f391-4091-a6fb-5e084a4c56f4:bucket:mybucket` |
 {: caption="Table 2. CRN examples" caption-side="top"}
