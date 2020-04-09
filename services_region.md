@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-04-08"
+lastupdated: "2020-04-09"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -123,7 +123,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SQL Query | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Schematics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -246,7 +246,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
-| Red Hat OpenShift on IBM Cloud |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
+| Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SQL Query |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Schematics |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -369,7 +369,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
-| Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | SQL Query |  |  | 
 | SSH Key for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Schematics |  |  | 
