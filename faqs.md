@@ -84,7 +84,7 @@ You can delete a service instance by using the following steps:
 {: #view-usage}
 {: faq}
 
-Yes, you can. To open the Usage Dashboard page, click **Manage** &gt; **Billing and usage**. Select **Usage** to view a summary of the usage by resource group for the account. 
+Yes, you can. To open the Usage Dashboard page, in the IBM Cloud console, click **Manage** &gt; **Billing and usage**. Select **Usage** to view a summary of the usage by resource group for the account. 
 
 ## Who can add tags to a resource?
 {: #tag-faq}

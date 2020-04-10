@@ -4,8 +4,8 @@
 
 copyright:
 
-  years: 2017, 2019
-lastupdated: "2019-11-25"
+  years: 2017, 2020
+lastupdated: "2020-04-10"
 
 keywords: resource group, account resources, users access to resource groups, create resource group
 
@@ -25,7 +25,7 @@ subcollection: resources
 
 A resource group is a way for you to organize your account resources in customizable groupings so that you can quickly assign users access to more than one resource at a time. Any account resource that is managed by using {{site.data.keyword.Bluemix}} Identity and Access Management (IAM) access control belongs to a resource group within your account. The only exception is Kubernetes, which doesn't prompt you for a resource group assignment, but access to the service is controlled by using IAM roles. Cloud Foundry services are assigned to orgs and spaces and can't be added to a resource group.
 
-To start managing your resource groups, go to **Manage** > **Account** > **Account resources** > **Resource groups**. You can create, view, and rename your resource groups, add resources and manage access to your resource groups. You can also delete any resource group only if it doesn't contain any resources, and it isn't the default resource group. For more information about working with resource groups, see [Best practices for organizing resources in resource groups](/docs/resources?topic=resources-bp_resourcegroups).
+To start managing your resource groups, in the IBM Cloud console, go to **Manage** > **Account** > **Account resources** > **Resource groups**. You can create, view, and rename your resource groups, add resources and manage access to your resource groups. You can also delete any resource group only if it doesn't contain any resources, and it isn't the default resource group. For more information about working with resource groups, see [Best practices for organizing resources in resource groups](/docs/resources?topic=resources-bp_resourcegroups).
 
 ## Creating a resource group
 {: #create_rgs}
@@ -37,7 +37,7 @@ You must be assigned an IAM policy with the Administrator role on All Account Ma
 Connections between a resource group and a Cloud Foundry org or space are restricted by your quota. See [What is an alias?](/docs/resources?topic=resources-connect_app#what_is_alias) for more information.
 {: note}
 
-1. Go to **Manage** > **Account** > **Account resources** > **Resource groups**.
+1. In the console, go to **Manage** > **Account** > **Account resources** > **Resource groups**.
 2. Click **Create**.
 3. Enter a name for your resource group. 
 4. Click **Add**.
@@ -67,7 +67,7 @@ Users in your account must be assigned two access policies to create resources f
 
 Your first resource group is created and named `Default` for you. You can update the name of this group or any other groups that you create.
 
-1. Go to **Manage** > **Account** > **Account resources** > **Resource groups**.
+1. In the console, go to **Manage** > **Account** > **Account resources** > **Resource groups**.
 2. Click the **Actions** ![List of actions icon](../icons/action-menu-icon.svg) menu, and select **Rename**.
 3. Enter a unique name and click **Save**.
 
@@ -106,5 +106,5 @@ With {{site.data.keyword.Bluemix_notm}} IAM, you have the flexibility to provide
 
 You can't delete the default resource group that's added to your account. Besides the default one, you can delete any resource group only if it doesn't contain any resources. 
 
-1. Go to **Manage** > **Account** > **Account resources** > **Resource groups**.
+1. In the console, go to **Manage** > **Account** > **Account resources** > **Resource groups**.
 2. Click the **Actions** ![List of actions icon](../icons/action-menu-icon.svg) menu, and select **Delete**.
