@@ -22,7 +22,7 @@ subcollection: resources
 A tag is a label that you assign to a resource for easy filtering of resources in your resource list. You can use tags to organize your resources and easily find them later. You can also use tags to help you with identifying specific team usage or cost allocation when you view your [exported usage report](/docs/billing-usage?topic=billing-usage-viewingusage#export-csv). 
 {: shortdesc}
 
-To see a full list of tags in your account, in the IBM Cloud console, go to **Manage > Account**, and select **Tags**.
+To see a full list of tags in your account, in the {{site.data.keyword.cloud}} console, go to **Manage > Account**, and select **Tags**.
 
 ## Tagging rules and limitations
 {: #limits}

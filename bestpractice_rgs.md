@@ -26,7 +26,7 @@ A resource group is a feature that you use to organize your account [resources](
 Currently, not all services support the use of {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) access control and the assignment to a resource group. IAM-enabled services prompt you to assign new service instances to a resource group when you create them from the catalog. Access to the resources within a resource group and the resource group itself are managed by IAM. By using IAM roles, you can provide users access to the resources that are organized within the resource groups. IAM roles can also provide the ability to view, edit, add new service instances to, or manage access to a resource group.
 
 You can also find the list of IAM-enabled services when you assign access to resources from the Identity and Access UI by completing the following steps:
-1. In the IBM Cloud console, go to **Manage** &gt; **Access (IAM)**, and select **Users**.
+1. In the {{site.data.keyword.cloud}} console, go to **Manage** &gt; **Access (IAM)**, and select **Users**.
 2. Select any user and click **Access policies**.
 3. Select **Assign access** > **Assign access to resources**.
 4. Using the **Services** menu, select the service that you want to assign. For all services that don't yet support by using IAM, you can continue to use Cloud Foundry orgs, spaces, and roles.
@@ -46,7 +46,7 @@ All users get a single resource group by default that can be renamed. Assign the
 
 To create a new resource group, complete the following steps:
 
-1. In the IBM Cloud console, go to **Manage** > **Account**.
+1. In the console, go to **Manage** > **Account**.
 2. Expand **Account resources** and select **Resource groups**.
 3. Click **Create a resource group**.
 4. Enter a name for your resource group.
