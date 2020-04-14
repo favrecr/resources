@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2019
-lastupdated: "2019-02-05"
+  years: 2015, 2020
+lastupdated: "2019-04-14"
 
 keywords: lifecycle, end of support, service availability
 
@@ -11,8 +11,9 @@ subcollection: resources
 
 ---
 
-{:new_window: target="_blank"}
+{:external: target="_blank" .external}
 {:shortdesc: .shortdesc}
+{:note: .note}
 
 # Continued availability for services
 {: #services_availability}
@@ -24,13 +25,15 @@ The following services are classified as Tier 1:
   * {{site.data.keyword.cloudant}}
   * {{site.data.keyword.openwhisk_short}}
   * {{site.data.keyword.containershort_notm}}
+  * {{site.data.keyword.databases-for-mongodb}}
+  * {{site.data.keyword.databases-for-postgresql}}
   * {{site.data.keyword.dashdbshort}}
   * {{site.data.keyword.iot_short}}
   * {{site.data.keyword.messagehub}}
-  * MongoDB by Compose
   * {{site.data.keyword.objectstorageshort}}
-  * PostgreSQL by Compose
   * {{site.data.keyword.appid_short}}
+
+MongoDB by Compose and PostgreSQL by Compose were previously in this list. Functional equivalents of {{site.data.keyword.databases-for-mongodb}} and {{site.data.keyword.databases-for-postgresql}} have been provided, respectively. {:note}
 
 To read more about terms of use for services, see [{{site.data.keyword.Bluemix_notm}} Terms and Notices](/docs/overview?topic=overview-terms).
 
