@@ -57,6 +57,8 @@
   ],
     "service-removal": [
       "delete a service from this account",
+      "cancel all services",
+      "cancel services from this account",
       "service removal from my account",
       "remove a service as do not want it on my account",
       "services need to be deleted from account"
@@ -68,16 +70,6 @@
       "removal of resource group tags",
       "adding a tag for a resource group"
     ],
-    "slitems": [
-      "find my SoftLayer resources",
-      "finding SoftLayer devices",
-      "find the classic infrastructure resources",
-      "view my SoftLayer resources",
-      "view SoftLayer storage",
-      "view SoftLayer network",
-      "control.softlayer.com to retire",
-      "new experience at cloud.ibm.com"
-    ], 
      "ts_service_broker": [     
       "error trying to delete a service",
       "trying to remove a service and get an error",
@@ -103,106 +95,105 @@
         "migrate all Cloud Foundry services to a resource group",
         "having trouble migrating all instances to my resource group",
         "are all my services eligible for migration",
-        "can't transfer my services to a  different resource group"
+        "can't transfer my services to a  different resource group" 
       ],  
-      "dc-required-move": [ 
-       "must I migrate my resources",
-       "why migrate these resources",
-       "do I have to transition my resources",
-       "resource migration",
-       "migrate to a new data center",
-       "migrate resources to a new data center"
-     ],
-      "dc-fully-migrated": [
-       "need to be fully migrated on the date my data center is closed",
-       "migrate completely before my data center closes",
-       "migrate must be completed fully before my data center closes",
-       "need to migrate before the data center closes",
-       "complete transition before the data center is closed"
+       "dc-required-move": [ 
+        "must I migrate my resources",
+        "why migrate these resources",
+        "do I have to transition my resources",
+        "resource migration",
+        "migrate to a new data center",
+        "migrate resources to a new data center"
       ],
-      "dc-move-again": [
-        "have to migrate my resources again",
-        "ever need to migrate these resources again",
-        "will I have to transition my resources again",
-        "resource migration in the future",
-        "need to migrate my resources in the future"
-      ],
-      "dc-select-deploy": [
-        "which is the best data center to deploy to",
-        "how to select which data center to deploy to",
-        "choose which data center to migrate resources",
-        "choose the data center for resource migration",
-        "which data center do you recommend for resource transition"
-      ],
-      "dc-transition-sites": [
-        "what data centers can I use during the transition period",
-        "data centers to use in transition period",
-        "during transition period which data centers can I use",
-        "during my transition period can I use any data center",
-        "use any data center during your transition period"
-      ],
-      "dc-free-months": [
-        "transition period resources in addition to my existing server",
-        "during transition period do I get additional resources",
-        "receive any transition period servers",
-        "during data center migration do I get additional resources",
-        "during data center migration will I get additional servers"
-      ],
-      "dc-determine-config": [
-        "determine my current hardware configuration",
-        "figure out my current hardware configuration",
-        "view my current hardware setup",
-        "view my system configuration details",
-        "see my current configuration for services"
-      ],
-      "dc-determine-utilization": [
-        "determine the utilization of my current hardware",
-        "know the utilization of my current configuration",
-        "find out the utilization of my current hardware",
-        "know the utilization for my existing configuration",
-        "tools to understand the utilization of my system"
-      ],
-      "dc-compare-processor": [  
-        "do I compare old and new processors",
-        "compare the specifications of old and new Intel processors",
-        "old and new processor comparison",
-        "comparison of specs of old and new processors",
-        "new and old intel processor compared"
-      ],
-      "dc-choose-os": [   
-       "choose my new operating system",
-       "select my new O/S after migration",
-       "choose the O/S for migrating my resources",
-       "following transition how do I choose my new OS",
-       "transition how do I select my new operating system"
-      ],
-      "dc-bandwidth-rate": [   
-       "what bandwidth do I get with my new configuration",
-       "get a different bandwidth package after I migrate",
-       "get the same bandwidth after migration",
-       "after I have transitioned will I have the same bandwidth",
-       "rate for the bandwidth the same as before migration"
-      ],
-      "dc-copy-data": [ 
-       "copy data from my old server to the new one",
-       "how do I migrate my servers",
-       "migrate old server data to new server",
-       "how to copy data to a new server",
-       "need to transition my server data"
+       "dc-fully-migrated": [
+        "need to be fully migrated on the date my data center is closed",
+        "migrate completely before my data center closes",
+        "migrate must be completed fully before my data center closes",
+        "need to migrate before the data center closes",
+        "complete transition before the data center is closed"
        ],
-      "dc-setup-networking": [  
-       "need to set up my networking at the new data site",
-       "need to update my networking at the new data center",
-       "my network also needs a new set up after I migrate",
-       "set up my virtual machine network after migration",
-       "update my VM network after I have migrated"
+       "dc-move-again": [
+         "have to migrate my resources again",
+         "ever need to migrate these resources again",
+         "will I have to transition my resources again",
+         "resource migration in the future",
+         "need to migrate my resources in the future"
        ],
-      "dc-ip-addresses": [ 
-        "keep my existing IP addresses after migration",
-        "keep the same IP address after moving to the new data center",
-        "new servers have new primary IP subnets",
-        "transfer my current IP address to the new data center",
-        "after migration can I keep this same IP address"
-        ]         
+       "dc-select-deploy": [
+         "which is the best data center to deploy to",
+         "how to select which data center to deploy to",
+         "choose which data center to migrate resources",
+         "choose the data center for resource migration",
+         "which data center do you recommend for resource transition"
+       ],
+       "dc-transition-sites": [
+         "what data centers can I use during the transition period",
+         "data centers to use in transition period",
+         "during transition period which data centers can I use",
+         "during my transition period can I use any data center",
+         "use any data center during your transition period"
+       ],
+       "dc-free-months": [
+         "transition period resources in addition to my existing server",
+         "during transition period do I get additional resources",
+         "receive any transition period servers",
+         "during data center migration do I get additional resources",
+         "during data center migration will I get additional servers"
+       ],
+       "dc-determine-config": [
+         "determine my current hardware configuration",
+         "figure out my current hardware configuration",
+         "view my current hardware setup",
+         "view my system configuration details",
+         "see my current configuration for services"
+       ],
+       "dc-determine-utilization": [
+         "determine the utilization of my current hardware",
+         "know the utilization of my current configuration",
+         "find out the utilization of my current hardware",
+         "know the utilization for my existing configuration",
+         "tools to understand the utilization of my system"
+       ],
+       "dc-compare-processor": [  
+         "do I compare old and new processors",
+         "compare the specifications of old and new Intel processors",
+         "old and new processor comparison",
+         "comparison of specs of old and new processors",
+         "new and old intel processor compared"
+       ],
+       "dc-choose-os": [   
+        "choose my new operating system",
+        "select my new O/S after migration",
+        "choose the O/S for migrating my resources",
+        "following transition how do I choose my new OS",
+        "transition how do I select my new operating system"
+       ],
+       "dc-bandwidth-rate": [   
+        "what bandwidth do I get with my new configuration",
+        "get a different bandwidth package after I migrate",
+        "get the same bandwidth after migration",
+        "after I have transitioned will I have the same bandwidth",
+        "rate for the bandwidth the same as before migration"
+       ],
+       "dc-copy-data": [ 
+        "copy data from my old server to the new one",
+        "how do I migrate my servers",
+        "migrate old server data to new server",
+        "how to copy data to a new server",
+        "need to transition my server data"
+        ],
+       "dc-setup-networking": [  
+        "need to set up my networking at the new data site",
+        "need to update my networking at the new data center",
+        "my network also needs a new set up after I migrate",
+        "set up my virtual machine network after migration",
+        "update my VM network after I have migrated"
+        ],
+       "dc-ip-addresses": [ 
+         "keep my existing IP addresses after migration",
+         "keep the same IP address after moving to the new data center",
+         "new servers have new primary IP subnets",
+         "transfer my current IP address to the new data center",
+         "after migration can I keep this same IP address"
+         ]         
 }
-
