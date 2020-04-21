@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2020
-lastupdated: "2020-03-13"
+lastupdated: "2020-04-20"
 
 keywords: set up private endpoints, private endpoint,private network endpoint,connect service over private network
 
@@ -65,7 +65,8 @@ Refer to the documentation for the specific service for more information about u
 | {{site.data.keyword.conversationshort}} | [Protecting sensitive information](/docs/assistant?topic=assistant-security) with {{site.data.keyword.conversationshort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.cncshort}} | [Public and private network endpoints](/docs/compare-comply?topic=watson-public-private-endpoints) with {{site.data.keyword.cncshort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.discoveryshort}} | [Public and private network endpoints](/docs/discovery?topic=watson-public-private-endpoints) with {{site.data.keyword.discoveryshort}} |
-| {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.knowledgestudioshort}} | [Public and private network endpoints](/docs/services/watson-knowledge-studio?topic=watson-public-private-endpoints) with {{site.data.keyword.knowledgestudioshort}} |
+| {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.wh-iml_short}} | [Public and private network endpoints](/docs/wh-iml?topic=watson-public-private-endpoints) with {{site.data.keyword.wh-iml_short}} |
+| {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.knowledgestudioshort}} | [Public and private network endpoints](docs/services/watson-knowledge-studio?topic=watson-public-private-endpoints) with {{site.data.keyword.knowledgestudioshort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.languagetranslatorshort}} | [Public and private network endpoints](/docs/services/language-translator?topic=watson-public-private-endpoints) with {{site.data.keyword.languagetranslatorshort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.nlushort}} | [Public and private network endpoints](/docs/services/natural-language-understanding?topic=watson-public-private-endpoints) with {{site.data.keyword.nlushort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.personalityinsightsshort}} | [Public and private network endpoints](/docs/services/personality-insights?topic=watson-public-private-endpoints) with {{site.data.keyword.personalityinsightsshort}} |
@@ -73,5 +74,4 @@ Refer to the documentation for the specific service for more information about u
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.texttospeechshort}} | [Public and private network endpoints](/docs/services/text-to-speech?topic=watson-public-private-endpoints) with {{site.data.keyword.texttospeechshort}} |
 | {{site.data.keyword.ibmwatson_notm}} {{site.data.keyword.toneanalyzershort}} | [Public and private network endpoints](/docs/services/tone-analyzer?topic=watson-public-private-endpoints) with {{site.data.keyword.toneanalyzershort}} |
 {: caption="Table 1. Services that support using service endpoints" caption-side="top"}
-
 
