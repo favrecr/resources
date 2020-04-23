@@ -29,10 +29,8 @@ Some services are available to purchase in a location, but that service's data m
 
 Services that are hosted globally create resources that operate across multiple locations. For example, with {{site.data.keyword.cos_full_notm}}, you can choose to deploy data in a single data center, or even a combination of locations by selecting the endpoint where your application sends REST API requests.
 
-<!-- Do not manually change the table or add content after the table. -->
-<!-- The tables and everything after are deleted and refreshed daily. -->
-<!-- Also, do not change the number of dashes in the second line. -->
-<!-- Ping @natimpe for details. -->
+<!-- Everthing above, can be changed, edited, modified in this Markdown file. Everything after, is maintained in the script file -->
+<!-- Do not manually change the table or add content in this table or after this table. -->
 
 <!-- Everything is deleted after this line. -->
 | Service | Dallas | Washington DC | 
