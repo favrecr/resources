@@ -33,7 +33,7 @@ The following services are classified as Tier 1:
   * {{site.data.keyword.objectstorageshort}}
   * {{site.data.keyword.appid_short}}
 
-MongoDB by Compose and PostgreSQL by Compose were previously in this list. Functional equivalents of {{site.data.keyword.databases-for-mongodb}} and {{site.data.keyword.databases-for-postgresql}} have been provided, respectively. {:note}
+MongoDB by Compose and PostgreSQL by Compose were previously in this list. Functional equivalents of {{site.data.keyword.databases-for-mongodb}} and {{site.data.keyword.databases-for-postgresql}} have been provided, respectively. {: note}
 
 To read more about terms of use for services, see [{{site.data.keyword.Bluemix_notm}} Terms and Notices](/docs/overview?topic=overview-terms).
 
