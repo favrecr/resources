@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-04-23"
+lastupdated: "2020-04-24"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -67,7 +67,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cost and Asset Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
-| Data Store for Memcache | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -191,7 +190,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cost and Asset Management |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
-| Data Store for Memcache |  |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -315,7 +313,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Continuous Delivery |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cost and Asset Management |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
-| Data Store for Memcache |  |  | 
 | Databases for Elasticsearch | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for MongoDB | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Databases for PostgreSQL | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
