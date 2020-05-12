@@ -23,6 +23,7 @@
      "who can create resource groups",
      "can only administrators add a resource group to the account",
      "adding a resource group to my Lite account",
+     "access to create resource groups",   
      "can I create resource groups without paying"
  ],
     "delete-resource-group": [
@@ -65,6 +66,10 @@
       "remove a service as do not want it on my account",
       "how to delete my existing Lite plan instance",
       "probem deleting the existing service instance",
+      "unsubscribe from this service",  
+      "delete the existing service instance",
+      "unsubscribe the selected plan",
+      "unsubscribe to a service",  
       "services need to be deleted from account"
    ],
     "tag-faq": [
