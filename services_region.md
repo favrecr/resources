@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-05-14"
+lastupdated: "2020-05-15"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -76,7 +76,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 Hosted | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Db2 Warehouse | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Digital Content Checker | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Direct Link Dedicated | Hosted Globally | Hosted Globally | 
+| Direct Link Dedicated 2.0 | Hosted Globally | Hosted Globally | 
 | Discovery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Event Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Event Streams | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -199,7 +199,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 Hosted | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Db2 Warehouse | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Digital Content Checker | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Direct Link Dedicated | Hosted Globally | Hosted Globally | 
+| Direct Link Dedicated 2.0 | Hosted Globally | Hosted Globally | 
 | Discovery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Event Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Event Streams | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -322,7 +322,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Db2 Hosted | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Db2 Warehouse | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Digital Content Checker | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
-| Direct Link Dedicated | Hosted Globally | Hosted Globally | 
+| Direct Link Dedicated 2.0 | Hosted Globally | Hosted Globally | 
 | Discovery | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Event Management | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Event Streams | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
