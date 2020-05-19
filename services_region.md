@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-05-18"
+lastupdated: "2020-05-19"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -119,6 +119,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Project Coligo | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
@@ -242,6 +243,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Predictive Market Scenarios |  |  | 
+| Project Coligo |  |  | 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
@@ -365,6 +367,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Portfolio Optimization |  |  | 
 | Power Systems Virtual Server |  |  | 
 | Predictive Market Scenarios |  |  | 
+| Project Coligo |  |  | 
 | Public Gateway for VPC |  |  | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
