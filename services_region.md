@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-05-19"
+lastupdated: "2020-05-20"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -47,7 +47,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Block Storage for VPC |  |  | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
 | Cloudant | Hosted Globally | Hosted Globally | 
