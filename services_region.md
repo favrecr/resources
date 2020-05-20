@@ -44,7 +44,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Automated Accessibility Tester | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Availability Monitoring | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | BigInsights for Apache Hadoop (Subscription) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Block Storage for VPC |  |  | 
+| Block Storage for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -120,7 +120,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Power Systems Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Project Coligo | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Public Gateway for VPC |  |  | 
+| Public Gateway for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -134,7 +134,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Simulated Instrument Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Subnet |  |  | 
+| Subnet | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Text to Speech | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Tone Analyzer | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Toolchain | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -168,7 +168,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Automated Accessibility Tester | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Availability Monitoring | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | BigInsights for Apache Hadoop (Subscription) |  |  | 
-| Block Storage for VPC |  |  | 
+| Block Storage for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
 | Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -241,10 +241,10 @@ Services that are hosted globally create resources that operate across multiple 
 | Network ACL | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Portfolio Optimization |  |  | 
-| Power Systems Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
+| Power Systems Virtual Server | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Predictive Market Scenarios |  |  | 
 | Project Coligo |  |  | 
-| Public Gateway for VPC |  |  | 
+| Public Gateway for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -258,7 +258,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Simulated Instrument Analytics |  |  | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Subnet |  |  | 
+| Subnet | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Text to Speech | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Tone Analyzer | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Toolchain | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -292,7 +292,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Automated Accessibility Tester | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | Availability Monitoring | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | BigInsights for Apache Hadoop (Subscription) |  |  | 
-| Block Storage for VPC |  |  | 
+| Block Storage for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  | 
 | Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -368,7 +368,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Power Systems Virtual Server |  |  | 
 | Predictive Market Scenarios |  |  | 
 | Project Coligo |  |  | 
-| Public Gateway for VPC |  |  | 
+| Public Gateway for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Push Notifications | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Real-Time Payments |  |  | 
 | Red Hat OpenShift on IBM Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -382,7 +382,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Simulated Instrument Analytics |  |  | 
 | Speech to Text | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Streaming Analytics |  |  | 
-| Subnet |  |  | 
+| Subnet | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Text to Speech | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Tone Analyzer | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Toolchain | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
@@ -391,7 +391,7 @@ Services that are hosted globally create resources that operate across multiple 
 | VPN for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Virtual Private Cloud | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Virtual Server for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Visual Recognition |  |  | 
+| Visual Recognition |  | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Voice Agent with Watson |  |  | 
 | Watson Assistant | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Watson OpenScale |  |  | 
