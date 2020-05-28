@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2015, 2019
-lastupdated: "2019-05-08"
+  years: 2015, 2020
+lastupdated: "2020-05-28"
 
 keywords: service key, api key, bind, credential
 
@@ -20,7 +20,7 @@ subcollection: resources
 # Adding and viewing credentials
 {: #service_credentials}
 
-You can generate a new set of credentials for cases where you want to manually connect an app or external consumer to an {{site.data.keyword.Bluemix}} service. For example, if you're trying to bind an AWS app to a Watson service, you need to generate a new credential that can be used to bind them together. After your credential is created, you can [manually add](/docs/apps/tutorials?topic=creating-apps-credentials_overview) it to your {{site.data.keyword.Bluemix_notm}} app or other [external consumer](/docs/resources?topic=resources-externalapp) to connect your service.
+You can generate a new set of credentials for cases where you want to manually connect an app or external consumer to an {{site.data.keyword.Bluemix}} service. For example, if you're trying to bind an AWS app to a Watson service, you need to generate a new credential that can be used to bind them together. After your credential is created, you can [manually add](/docs/apps?topic=apps-credentials_overview) it to your {{site.data.keyword.Bluemix_notm}} app or other [external consumer](/docs/resources?topic=resources-externalapp) to connect your service.
 
 To manually add credentials to your apps, refer to the documentation for the type of app or compute option that you are using.
 {: tip}

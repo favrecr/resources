@@ -2,7 +2,7 @@
 
 copyright:
   years: 2017, 2020
-lastupdated: "2020-03-25"
+lastupdated: "2020-05-28"
 
 keywords: change service, upgrade service, service plan, pricing plan
 
@@ -28,7 +28,7 @@ Are you looking for details about upgrading your account type? See [Upgrading yo
 
 You can change the service plans for only certain services. If plan changes are enabled for the service, the service instance dashboard displays a **Plan** option in the navigation. Each service has a different set of next steps to follow if you change your plan.
 
-1. From the {{site.data.keyword.Bluemix_notm}} console, click the Menu icon ![Menu icon](../icons/icon_hamburger.svg) > **Resource list** to view your list of resources. Click the service that you want to update.
+1. From the {{site.data.keyword.Bluemix_notm}} console, click the Menu icon ![Menu icon](../icons/icon_hamburger.svg) > **My resources** to view your list of resources. Click the service that you want to update.
 1. Click **Plan** in the service instance dashboard. Select the plan that you want to change to, and click **Save**.
 
     Some services have plans that are not selectable from the Plan page. Typically, these plans aren't selectable because they require assistance from the Sales team or they require a migration before you can change plans. See the documentation for the service for information about required next steps.
@@ -39,7 +39,7 @@ You can change the service plans for only certain services. If plan changes are 
 
   For more information about any further required actions, see the documentation for the service.
 
-## Changing a plan through the CLI
+## Changing a plan by using the CLI
 {: #changing_command_line}
 
 As an alternative to the console, you can change a service's pricing plan by using the {{site.data.keyword.Bluemix_notm}} command-line interface (CLI).
@@ -64,14 +64,14 @@ As an alternative to the console, you can change a service's pricing plan by usi
 
 1. Change the plan for your service instance.
 
-   - If the service is RC-enabled, change your plan by using the [`ibmcloud resource service-instance-update` command](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_commands_resource#ibmcloud_resource_service_instance_update).
+   - If the service is RC-enabled, change your plan by using the [`ibmcloud resource service-instance-update` command](/docs/cli?topic=cli-ibmcloud_commands_resource#ibmcloud_resource_service_instance_update).
 
      ```
      ibmcloud resource service-instance-update <service_instance_name> --service-plan-id <plan_id>
      ```
      {: codeblock}
 
-   - If the service is not RC-enabled and is therefore based on Cloud Foundry, change your plan by using the [`ibmcloud cf update-service` command](/docs/cli?topic=cloud-cli-ibmcloud_commands_services#ibmcloud_service_update).
+   - If the service is not RC-enabled and is therefore based on Cloud Foundry, change your plan by using the [`ibmcloud cf update-service` command](/docs/cli?topic=cli-ibmcloud_commands_services#ibmcloud_service_update).
 
      ```
      ibmcloud cf update-service <service_instance_name> [-p <plan_name>]

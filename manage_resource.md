@@ -55,7 +55,7 @@ ibmcloud resource service-instance-create NAME (SERVICE_NAME | SERVICE_ID) SERVI
 
 Enter the following command options:
   * **Name (required)**: The name of the service instance. 
-  * **SERVICE_NAME or SERVICE_ID (required)**: The name or ID of the service. To list service offerings, use the [`ibmcloud catalog service-marketplace` command](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_catalog#ibmcloud_catalog_service_marketplace).
+  * **SERVICE_NAME or SERVICE_ID (required)**: The name or ID of the service. To list service offerings, use the [`ibmcloud catalog service-marketplace` command](/docs/cli?topic=cli-ibmcloud_catalog#ibmcloud_catalog_service_marketplace).
   * **SERVICE_PLAN_NAME or SERVICE_PLAN_ID (required)**: The name or ID of the service plan.
   * **LOCATION (required)**: The target location or environment to create the service instance.
   * **-d, --deployment DEPLOYMENT_NAME**: The name of the deployment. 
@@ -63,7 +63,7 @@ Enter the following command options:
   * **-g RESOURCE_GROUP**: The resource group name. 
   * **--service-endpoints SERVICE_ENDPOINTS_TYPE**: The types of the service endpoints. The possible values are `public`, `private`, `public-and-private`.
 
-The following example shows how to create a resource named `my-service-instance` that uses service plan `test-service-plan` of service `test-service` in the `eu-gb` location:
+The following example shows how to create a resource that is named `my-service-instance` that uses service plan `test-service-plan` of service `test-service` in the `eu-gb` location:
 
 ```
 ibmcloud resource service-instance-create my-service-instance test-service test-service-plan eu-gb

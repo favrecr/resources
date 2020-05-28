@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017, 2020
-lastupdated: "2020-04-10"
+lastupdated: "2020-05-28"
 
 keywords: resource group, account resources, users access to resource groups, create resource group
 
@@ -27,6 +27,7 @@ A resource group is a way for you to organize your account resources in customiz
 
 To start managing your resource groups, in the {{site.data.keyword.cloud}} console, go to **Manage** > **Account** > **Account resources** > **Resource groups**. You can create, view, and rename your resource groups, add resources and manage access to your resource groups. You can also delete any resource group only if it doesn't contain any resources, and it isn't the default resource group. For more information about working with resource groups, see [Best practices for organizing resources in resource groups](/docs/resources?topic=resources-bp_resourcegroups).
 
+
 ## Creating a resource group
 {: #create_rgs}
 
@@ -45,7 +46,7 @@ Connections between a resource group and a Cloud Foundry org or space are restri
 ### Creating a resource group by using the CLI
 {: #rgs_cli}
 
-Run the [`ibmcloud resource group-create`](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_commands_resource#ibmcloud_resource_group_create) command to create a new resource group. For example, the following command creates a resource group that is named `group2`:
+Run the [`ibmcloud resource group-create`](/docs/cli?topic=cli-ibmcloud_commands_resource#ibmcloud_resource_group_create) command to create a new resource group. For example, the following command creates a resource group that is named `group2`:
 
 ```
 ibmcloud resource group-create group2
@@ -74,7 +75,7 @@ Your first resource group is created and named `Default` for you. You can update
 ### Renaming a resource group by using the CLI
 {: #renaming-rgs-cli}
 
-Run the [`ibmcloud resource group-update`](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_commands_resource#ibmcloud_resource_group_update) command to update the name of a resource group. For example, the following command renames the `Default` resource group to `Admin`:
+Run the [`ibmcloud resource group-update`](/docs/cli?topic=cli-ibmcloud_commands_resource#ibmcloud_resource_group_update) command to update the name of a resource group. For example, the following command renames the `Default` resource group to `Admin`:
 
 ```
 ibmcloud resource group-update Default [-n, --name Admin]
@@ -89,7 +90,7 @@ To easily view the resources that are assigned to a resource group, go to the **
 ### Viewing resources by using the CLI
 {: #viewing-rgs-cli}
 
-Run the [`ibmcloud resource service-instances`](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_commands_resource#ibmcloud_resource_service_instances) to view the resources that are assigned to a specific resource group. For example, the following command lists all the resources that are in the `Default` resource group:
+Run the [`ibmcloud resource service-instances`](/docs/cli?topic=cli-ibmcloud_commands_resource#ibmcloud_resource_service_instances) to view the resources that are assigned to a specific resource group. For example, the following command lists all the resources that are in the `Default` resource group:
 
 ```
 ibmcloud resource service-instances -g Default
@@ -108,3 +109,13 @@ You can't delete the default resource group that's added to your account. Beside
 
 1. In the console, go to **Manage** > **Account** > **Account resources** > **Resource groups**.
 2. Click the **Actions** ![List of actions icon](../icons/action-menu-icon.svg) menu, and select **Delete**.
+
+### Deleting a resource group by using the CLI
+{: #delete-cli}
+
+Run the [`ibmcloud resource group-delete`](/docs/cli?topic=cli-ibmcloud_commands_resource#ibmcloud_resource_group_delete) command to delete  a resource group. For example, delete resource group `example-group`:
+
+```
+ibmcloud resource group-delete example-group -f
+```
+{:codeblock}

@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2017, 2019
-lastupdated: "2019-01-28"
+  years: 2017, 2020
+lastupdated: "2020-05-28"
 
 keywords: create connection, connect a service, bind, alias
 
@@ -30,7 +30,7 @@ Aliases are like symlinks that hold references to remote resources and enable in
 The following rules apply to aliases:
 
 * There's no extra charge for an alias, but each alias counts against your quota in your organization.
-* You can create only one alias per space in the {{site.data.keyword.Bluemix_notm}} console. However, more than one alias per space can be created by using the {{site.data.keyword.Bluemix_notm}} CLI. For more information, see [Working with resources and resource groups](/docs/cli/reference/ibmcloud?topic=cloud-cli-ibmcloud_commands_resource).
+* You can create only one alias per space in the {{site.data.keyword.Bluemix_notm}} console. However, more than one alias per space can be created by using the {{site.data.keyword.Bluemix_notm}} CLI. For more information, see [Working with resources and resource groups](/docs/cli?topic=cli-ibmcloud_commands_resource).
 * You can create multiple connections between your IAM-managed service and any application in any space, organization, and region in the same account if you have permission.
 * Multiple connections that are made in the same space to different apps from an IAM-managed service instance use the same alias.
 * Unbinding an IAM-managed service instance *doesn't* delete the service instance that represents the alias.
@@ -57,9 +57,9 @@ To connect your IAM-managed service instance to an application:
 ## Viewing an alias
 {: #view_alias}
 
-After you create a connection between an IAM-managed service and an app, the alias is displayed on the **Connections** tab of the connected app. Additionally, the alias is displayed as a running service instance on your resource list, and contains a **Connections** tab only when you open it.
+After you create a connection between an IAM-managed service and an app, the alias is displayed on the **Connections** tab of the connected app. Additionally, the alias is displayed as a running service instance on the My resource page, and contains a **Connections** tab only when you open it.
 
-1. Go to your resource list.
+1. Go to the My resources page.
 2. From the **Application Services** table, click the name of the service instance to open the service details view. If it has a **Connections** tab only, it's an alias.
 
 ## Deleting an alias
@@ -67,11 +67,11 @@ After you create a connection between an IAM-managed service and an app, the ali
 
 The easiest way to delete the alias is to delete the IAM-managed service instance. However, you can maintain your IAM-managed service instance and instead delete the alias directly.
 
-1. Go to your resource list.
+1. Go to the My resources page.
 2. From the **Application Services** table, click the name of the service instance to open the service details view. If it has a **Connections** tab only, it's an alias.
 3. Delete the instance.
 
-## Creating a connection between multiple services
+## Creating a connection between a service and Cloud Foundry app
 {: #multiple_services}
 
-For more information, see [Using services in another service](/docs/resources?topic=resources-s2s_binding).
+For more information, see [Connecting services to a Cloud Foundry app](/docs/resources?topic=resources-s2s_binding).
