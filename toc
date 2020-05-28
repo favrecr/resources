@@ -42,7 +42,7 @@ Working with resources and services
     Connecting to services over a private network
         service-endpoints.md
         private-network-endpoints.md
-        /direct-link/direct-link-overview-of-virtual-routing-and-forwarding-vrf-on-ibm-cloud 
+        /dl/dl-overview-of-virtual-routing-and-forwarding-vrf-on-ibm-cloud 
 
     {: .navgroup id="reference"}
     tagging_sample_syntax.md
