@@ -42,7 +42,7 @@ Working with resources and services
     Connecting to services over a private network
         service-endpoints.md
         private-network-endpoints.md
-        /dl/dl-overview-of-virtual-routing-and-forwarding-vrf-on-ibm-cloud 
+        /dl/overview-of-virtual-routing-and-forwarding-vrf-on-ibm-cloud
 
     {: .navgroup id="reference"}
     tagging_sample_syntax.md
@@ -50,9 +50,10 @@ Working with resources and services
     
     {: .topicgroup}
     Command reference
-        /cli/reference/ibmcloud/cloud-cli-ibmcloud_commands_resource
-        /cli/reference/ibmcloud/cloud-cli-ibmcloud_commands_services
-        /cli/reference/ibmcloud/cloud-cli-ibmcloud_catalog
+        [Working with resources and resource groups](/cli/cloud-cli-ibmcloud_commands_resource)
+        [Creating, deleting, and binding Cloud Foundry services](/cli/cloud-cli-ibmcloud_commands_services)
+        [Searching and managing the IBM Cloud catalog](/cli/cloud-cli-ibmcloud_catalog)
+
         
     {: .topicgroup}
     API reference  
