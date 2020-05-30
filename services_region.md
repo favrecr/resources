@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-05-29"
+lastupdated: "2020-05-30"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -362,7 +362,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Mobile Foundation | ![Checkmark icon](../../icons/checkmark-icon.svg) |  |  |  | 
 | Natural Language Classifier | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Natural Language Understanding | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
-| Network ACL |  |  |  |  | 
+| Network ACL |  | ![Checkmark icon](../../icons/checkmark-icon.svg) |  |  | 
 | Personality Insights | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Portfolio Optimization |  |  |  |  | 
 | Power Systems Virtual Server |  |  |  |  | 
