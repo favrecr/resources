@@ -28,7 +28,7 @@ Are you looking for details about upgrading your account type? See [Upgrading yo
 
 You can change the service plans for only certain services. If plan changes are enabled for the service, the service instance dashboard displays a **Plan** option in the navigation. Each service has a different set of next steps to follow if you change your plan.
 
-1. From the {{site.data.keyword.Bluemix_notm}} console, click the Menu icon ![Menu icon](../icons/icon_hamburger.svg) > **My resources** to view your list of resources. Click the service that you want to update.
+1. From the {{site.data.keyword.Bluemix_notm}} console, click the Menu icon ![Menu icon](../icons/icon_hamburger.svg) > **Resource list** to view your list of resources. Click the service that you want to update.
 1. Click **Plan** in the service instance dashboard. Select the plan that you want to change to, and click **Save**.
 
     Some services have plans that are not selectable from the Plan page. Typically, these plans aren't selectable because they require assistance from the Sales team or they require a migration before you can change plans. See the documentation for the service for information about required next steps.
