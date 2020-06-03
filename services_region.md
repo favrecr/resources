@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-06-02"
+lastupdated: "2020-06-03"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -47,7 +47,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Block Storage for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg) |  | 
 | Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Catalog Management | Hosted Globally | Hosted Globally | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
@@ -172,7 +171,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Block Storage for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in London* | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Frankfurt* | 
 | Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
-| Catalog Management | Hosted Globally | Hosted Globally | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | 
@@ -297,7 +295,6 @@ Services that are hosted globally create resources that operate across multiple 
 | Block Storage for VPC | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  |  | 
 | Blockchain | ![Checkmark icon](../../icons/checkmark-icon.svg)<br>*Data hosted in Sydney* |  |  |  | 
 | Blockchain Platform | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  |  | 
-| Catalog Management | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Certificate Manager | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) |  |  | 
 | Cloud Foundry Enterprise Environment | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | ![Checkmark icon](../../icons/checkmark-icon.svg) | 
 | Cloud Object Storage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
