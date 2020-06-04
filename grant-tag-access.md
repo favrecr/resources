@@ -2,8 +2,8 @@
 
 copyright:
 
-  years: 2018, 2019
-lastupdated: "2019-06-03"
+  years: 2018-2020
+lastupdated: "2020-06-04"
 
 keywords: tagging, enabling others to tag, tagging permissions
 
@@ -17,66 +17,72 @@ subcollection: resources
 
 
 # Granting users access to tag resources
-{: #access}
+{: #tag-access}
 
-As the account owner, you might want to delegate some of the responsibility of tagging resources. To do that, you can grant access to other users in the account to add and remove tags from resources. For users on account to add tags to a resource, they must be assigned the appropriate access. Access to services that belong to a resource group are managed by {{site.data.keyword.Bluemix}} Identity and Access Management (IAM) access policies, and access to services that belong to a Cloud Foundry org and space are managed by Cloud Foundry org and space roles.
+As the account owner, you might want to delegate some of the responsibility of tagging resources. For users to add tags to a resource, you must grant them the appropriate access. Use {{site.data.keyword.Bluemix}} [Identity and Access Management (IAM) access policies](/docs/iam?topic=iam-userroles) to assign users access to resources in a resource group. Assign a [Cloud Foundry role](/docs/iam?topic=iam-cfaccess) to grant users access to resources in a Cloud Foundry org and space.
 {: shortdesc}
 
 ## Tagging permissions
 {: #tagging-permissions}
 
-Tags are visible to any user in an account. Once a resource is tagged, the tag is visible to all users who have read access to the resource. To add or remove a tag from a resource, certain access roles or permissions are required depending on the resource type. Check out the following table to understand what role is required for each resource type.
-
+Tags are visible to any user in an account. After a resource is tagged, the tag is visible to all users who have read access to the resource. To add or remove a tag from a resource, certain access roles or permissions are required depending on the resource type. Check out the following table to understand what role is required for each resource type.
 
 | Resource Type | Role |
 |--------|---------------|
-| IAM-enabled | Editor or Administrator on the resource |
-| Cloud Foundry | Developer role on the space that the resource belongs to  |
-| Classic infrastructure*| View hardware details permission or view virtual server details permission |
+| IAM-enabled | Editor or administrator on the resource |
+| Cloud Foundry | Developer on the space that the resource belongs to  |
+| Classic infrastructure| View hardware details permission or view virtual server details permission |
 | Cloud Object Storage S3 on classic infrastructure | Storage manage permission |
+| File Storage on classic infrastructure | Storage manage permission |
+| Evault backup on classic infrastructure | Storage manage permission |
+| Content Delivery Network on classic infrastructure | Manage CDN account permission |
+| Direct Link on classic infrastructure | Account member |
+| Hardware Firewall | Manage Firewalls |
+| FortiGate Security Appliance | Manage Firewalls |
+| IBM Cloud Load Balancer | Manage Load Balancers |
+| Gateway Appliance | Manage Network Gateways |
 {: caption="Table 1. Required roles for adding and removing tags" caption-side="top"}
-{: summary="This is a simple data table. However, the asterisk indicates that you must read the qualifying note after this table."}
-
-*The taggable resources in classic infrastructure are Virtual Guest, Virtual Dedicated Host, Network Application Delivery Controller, Gateway Member, Subnet, VLAN, and VLAN Firewall (Dedicated).
+{: summary="This is a simple data table."}
 
 
-## Granting access for tagging IAM-enabled resources
+## Granting users access to tag IAM-enabled resources
 {: #iam-managed}
 
 Resources that belong to a resource group are managed by {{site.data.keyword.Bluemix_notm}} Identity and Access Management (IAM) access policies. Complete the following steps to assign the Editor role for a user to tag IAM-enabled resources:
 
-  1. From the {{site.data.keyword.Bluemix_notm}} console, click **Manage > Access (IAM)**, and select **Users**.
-  2. Click the name of the user that you are granting access to.
-  3. Click **Access policies** > **Assign access**.
-  4. Select the **Assign access to resources** option.
-  5. From the list of services, select a specific service or **All Identity and Access enabled services**.
-  6. From the list of platform access roles, select **Editor**.
-  7. Click **Assign**.
+  1. From the {{site.data.keyword.Bluemix_notm}} console, click **Manage > Access (IAM)**, and select **Access groups**.
+  2. Click **Create**.
+  3. Enter a group name and description, and click **Create**.
+  4. Add users to the access group by clicking **Add users**, selecting one or more users from the table, and clicking **Add to group**.
+  5. Click **Access policies** > **Assign access**.
+  6. Select **All Identity and Access enabled services** or a specific service as the type of access to assign.
+  7. Select a specific region or accept the default **All regions** option. 
+  8. Select **Editor** from the list of platform access roles, and click **Add**.
+  9. Review your access summary, and click **Assign**. 
 
-## Granting access for tagging Cloud Foundry resources
+## Granting users access to tag Cloud Foundry resources
 {: #cf_tag_access}
 
 Resources that belong to a Cloud Foundry org and space are managed by Cloud Foundry org and space roles. Complete the following steps to assign the Developer space role for a user to tag Cloud Foundry resources:
 
- 1. Click **Manage > Access (IAM)**, and select **Users**.
-2. Select the name for the user that you want to provide access to.
-3. Click **Cloud Foundry access**.
-4. Click **Assign Organization**.
-5. Expand and select the `Organization` with the service instance that you want to provide the user access to.
-6. Select the region.
-7. Select the **Developer** space role.
+1. Click **Manage > Access (IAM)**, and select **Users**.
+2. Click the user's name from the table.
+3. Click **Cloud Foundry access** > **Assign organization**.
+5. Select the organization that contains the service instance you want to provide the user access to.
+6. Select a specific region or accept the default **All current regions** option. 
+7. Select **Developer** as the space role.
 8. Click **Save role**.
 
-## Granting access for tagging classic infrastructure resources
+## Granting users access to tag classic infrastructure resources
 {: #classic-infra}
 
-Complete the following steps to assign the Manager service access role for a user to tag classic infrastructure services:
+The taggable resources for classic infrastructure are Virtual Guest, Virtual Dedicated Host, Network Application Delivery Controller, Gateway Member, Subnet, VLAN, and VLAN Firewall (Dedicated). Complete the following steps to assign the Manager service access role for a user to tag classic infrastructure services:
 
   1. Click **Manage > Access (IAM)**, and select **Users**.
-  2. Click the name of the user that you are granting access to.
+  2. Click the user's name from the table.
   3. Click **Classic infrastructure**
   4. From the **Permissions** tab, expand the **Devices** category.
-  5. Select **View Hardware Details** and **View Virtual Server Details**. If you need to assign access to Cloud Object Storage S3, assign the **Storage manage** permission.
+  5. Select **View Hardware Details** and **View Virtual Server Details**. If you need to assign access to Cloud Object Storage S3, File Storage, or Evault Backup, assign the **Storage manage** permission. If you need to assign access to Content Delivery network, assign the **Manage CDN Account** permission.
   6. Click **Save**.
   7. Click the **Devices** tab.
-  8. Select **All bare metal servers** or **All virtual servers** depending on the resource you would like to tag.
+  8. Select **All bare metal servers** or **All virtual servers** depending on the resource that you want the user to be able to tag.
