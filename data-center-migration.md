@@ -42,12 +42,23 @@ Complete the following steps before 31 August 2020:
   * [Getting started with virtual servers](/docs/vsi?topic=virtual-servers-getting-started-tutorial)
   * [Getting started with bare metal servers](/docs/bare-metal?topic=bare-metal-getting-started) 
   * [Comparing {{site.data.keyword.cloud_notm}} Classic and VPC infrastructure environments](/docs/overview?topic=overview-compare-infrastructure)
-1. Copy your data to a new server by using one of the following methods. You must establish connectivity between the old and new servers and have sufficient storage in the new server. 
+1. Copy your data to a new server by using the following methods. You must establish connectivity between the old and new servers and have sufficient storage in the new server. 
   * Use [Secure Copy Protocol (SCP)](https://www.ibm.com/support/knowledgecenter/ST5Q4U_1.5.2/com.ibm.storwize.v7000.unified.152.doc/usgr_usng_scp.html){: external} to securely copy a file from source to destination.
   * Use [rsync](https://download.samba.org/pub/rsync/rsync.html){: external} if you need to copy multiple files. Rsync also copies directory structures and preserves file permissions. 
   * Migrate your [virtual server instance](/docs/vpc?topic=vpc-migrate-vsi-to-vpc) by creating an image template and deploying it in a new {{site.data.keyword.vpc_short}}.
   * Migrate your [VMware cluster](/docs/vmwaresolutions?topic=vmwaresolutions-hcxclient-migrations) to a new data center by using HCX.
   * Migrate a local load balancer to [IBM Cloud Load Balancer](/docs/local-load-balancer?topic=local-load-balancer-migrating-a-local-load-balancer-to-ibm-cloud-load-balancer). For more information, see [IBM Cloud Load Balancer migration FAQs](/docs/local-load-balancer?topic=local-load-balancer-migration-faq).
+  * Migrate your [{{site.data.keyword.cos_full_notm}}](/docs/cloud-object-storage?topic=cloud-object-storage-migrate-data-center#migrating-your-resources) data to a new {{site.data.keyword.cloud_notm}} data center.
 
   Copy only applications and application data between systems. Copying older versions of operating system files to a newer version can cause problems. Shut down databases before you copy them between the systems to ensure that the data is consistent. When migrating database data, migrate the data in a way that doesn’t limit your options to import it into the new system. Rather than copying database data from system to system, consider exporting it to a format so you can import it to a newer database. Flat text files, CSV files, and other files provide more options than using proprietary or closed file formats when it comes to moving data between systems. Always test your data migration approaches on a small set of test data before officially copying.
 1. Cancel your servers. You continue to be invoiced for the old servers until you cancel them. For more information, see [Device types and actions](/docs/vsi?topic=virtual-servers-managing-virtual-servers#device-types-and-actions). 
+
+
+
+
+
+
+
+
+
+
