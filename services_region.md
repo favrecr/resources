@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2020
-lastupdated: "2020-06-05"
+lastupdated: "2020-06-07"
 
 keywords: location, regions, data centers, service location, service availability, multizone region, MZR
 
@@ -64,6 +64,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Compose for ScyllaDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Consult with IBM Garage | Hosted Globally | Hosted Globally | 
+| Container Registry | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cost and Asset Management | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
@@ -188,6 +189,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Compose for ScyllaDB | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Compose for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Consult with IBM Garage | Hosted Globally | Hosted Globally | 
+| Container Registry | Hosted Globally | Hosted Globally | 
 | Continuous Delivery | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cost and Asset Management |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | 
@@ -312,6 +314,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Compose for ScyllaDB | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Compose for etcd | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Consult with IBM Garage | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
+| Container Registry | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
 | Continuous Delivery |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
 | Cost and Asset Management |  |  |  |  | 
 | DNS Services | Hosted Globally | Hosted Globally | Hosted Globally | Hosted Globally | 
@@ -423,7 +426,6 @@ The following infrastructure resources are available in North and South America.
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Container Registry |  |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  | 
 | Direct Link Dedicated Hosting on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -457,7 +459,6 @@ The following infrastructure resources are available in North and South America.
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Container Registry | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Direct Link Dedicated Hosting on Classic |  |  |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -491,7 +492,6 @@ The following infrastructure resources are available in North and South America.
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -525,7 +525,6 @@ The following infrastructure resources are available in North and South America.
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -564,7 +563,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Container Registry |  |  | 
 | Content Delivery Network |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  | 
 | Direct Link Dedicated Hosting on Classic |  |  | 
@@ -598,7 +596,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Container Registry | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Direct Link Dedicated Hosting on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -632,7 +629,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
-| Container Registry | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Direct Link Dedicated Hosting on Classic |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -666,7 +662,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -700,7 +695,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -734,7 +728,6 @@ The following infrastructure resources are available in Europe. Match the resour
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -773,7 +766,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Container Registry |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  |  |  |  |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -807,7 +799,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -841,7 +832,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Dedicated Hosting on Classic |  | 
@@ -875,7 +865,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
-| Container Registry | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  |  |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) |  | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  | 
 | Direct Link Dedicated Hosting on Classic |  |  | ![Checkmark icon](../icons/checkmark-icon.svg) |  |  | 
@@ -909,7 +898,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
@@ -943,7 +931,6 @@ The following infrastructure resources are available in Asia and the Pacific reg
 | Block Storage | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Citrix NetScaler VPX | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Cloud HSM |  | 
-| Container Registry |  | 
 | Content Delivery Network | ![Checkmark icon](../icons/checkmark-icon.svg) | 
 | Direct Link Connect on Classic |  | 
 | Direct Link Dedicated Hosting on Classic | ![Checkmark icon](../icons/checkmark-icon.svg) | 
