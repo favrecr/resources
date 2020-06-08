@@ -4,7 +4,7 @@ copyright:
 
   years: 2020
 
-lastupdated: "2020-05-28"
+lastupdated: "2020-06-08"
 
 keywords: migrate, migrating data center, migrate resources
 
@@ -34,7 +34,7 @@ For information about which data centers are closing, see [Withdrawal of support
 ## Migrating your resources
 {: #migrating-your-resources}
  
-Complete the following steps before 31 August 2020: 
+Complete the following steps to migrate resources to a new data center: 
 
 1. Identify any virtual server instances or bare metal servers that are currently running on the data centers that are set to close. For more information, contact the Client Success team [Live chat](https://www.ibm.com/cloud/data-centers/?focusArea=WCP%20-%20Pooled%20CSM&contactmodule){: external}. 
 1. Order replacement servers in new data centers. For more information, see the following documentation:
